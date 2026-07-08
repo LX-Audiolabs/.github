@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://truce.audio/" target="_blank" rel="noopener">
-    <img src="https://truce.audio/branding/built-with-truce-dark.svg" alt="Built with Truce" height="36">
-  </a>
-</p>
+[![Built with Truce](https://truce.audio/branding/built-with-truce-dark.svg)](https://truce.audio/)
 
 # LX Audiolabs
 
