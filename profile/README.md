@@ -1,5 +1,3 @@
-[![Built with Truce](https://truce.audio/branding/built-with-truce-dark.svg)](https://truce.audio/)
-
 # LX Audiolabs
 
 **Open-source CLAP audio plugins** — built with [truce](https://truce.audio/) and Rust.
